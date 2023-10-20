@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Folvin
 - 👀 I’m interested in videogames
 - 🌱 I’m currently learning to develop
-- 💞️ I’m looking to collaborate on a team
+- 💞️ I’m looking to collaborate on a modern and happy team
 - 📫 How to reach me kevin.alessi.developer@gmail.com
 - 📞 my mobile phone 3427316925
 
