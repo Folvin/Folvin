@@ -5,9 +5,7 @@
 - 📫 How to reach me kevin.alessi.developer@gmail.com
 - 📞 my mobile phone 3427316925
 
-Hello there, I'm Kevin Alessi. I was born in 2002. I'm a logical and emotional person. I think that balance is the key to making things right. I like to play video games and hearing to music to relax. I also enjoy hanging out with my friend and adventure a bit, always trying new things from time to time. I began programming thanks to an intensive course of 6 months called Develhope. I liked it from the beginning, and now I'm just curious to know what I will learn in the future.
-
-My biggest aspiration is to develop a videogame or software that I can be proud of
+hi! i'm a fullstack developer who likes to discover and learn new things so even if i'm a web developer i wouldn't mind to learn other things like developing application, UI design, AI, Videogames etc... I don't really like doing the same thing over and over again so when i face a problem i don't just pick the usual solution instead i like to analyze the problem and see every possible solution (even the weird ones) and pick the most optimal and simple, we can say i'm a bit lazy so don't really like to overcomplicate things i tend to keep it simple but also reusable (cause y'know i dont want to rewrite what i already wrote since I'm lazy). I'm playful and likes to talk a lot and I tend to view things analytically maybe too much sometimes. i enjoy videogames and teamworking i just usually support others whenever i can and this is also true outside of videogames I'm a teamplayer who likes to support whenever i can. i hope to work in an honest place and with people who loves coding like me and that can take a pun or two (I'm a bit mischievous there *wink*).
 
 <!---
 Folvin/Folvin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
